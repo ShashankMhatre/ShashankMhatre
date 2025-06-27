@@ -42,7 +42,6 @@ A scalable Power BI Service portal enabling executive reporting across departmen
 
 ---
 
-## 📄 Contact
+## 📬 Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/shashank-mhatre)
 - 📧 shashankmhatre0@gmail.com
-
