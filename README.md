@@ -9,15 +9,13 @@ I’m passionate about transforming raw data into business insight. With over 8 
 
 ## 📊 Featured Projects
 
-### 🔹 [LeftoverLove App (In Development)](https://github.com/ShashankMhatre)
+### 🔹 [LeftoverLove App (In Development)](https://github.com/ShashankMhatre/LeftoverLove)
 A no-code mobile app built with Adalo to reduce food waste and support local community sharing.  
 `Adalo | UX Design | Custom Validation | MVP Architecture`
 
 - Designed user flow for food listing, expiration tracking, and sharing features.
 - Integrated password validation and secure onboarding.
 - [Will update with screenshots and live demo upon MVP launch.]
-
----
 
 ### 🔹 Power BI Compliance Dashboards
 Power BI dashboards designed for legal and compliance teams within government frameworks.  
