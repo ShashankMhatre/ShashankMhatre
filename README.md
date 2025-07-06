@@ -17,21 +17,15 @@ A no-code mobile app built with Adalo to reduce food waste and support local com
 - Integrated password validation and secure onboarding.
 - [Will update with screenshots and live demo upon MVP launch.]
 
-### 🔹 Power BI Compliance Dashboards
-Power BI dashboards designed for legal and compliance teams within government frameworks.  
-`Power BI | Azure Synapse | KPI Scorecards | Row-Level Security`
-
-- Used Azure Synapse for data preparation and transformation.
-- Delivered dynamic, role-secured visuals for executive and compliance use cases.
-
 ---
 
-### 🔹 Self-Service BI Portal
-A scalable Power BI Service portal enabling executive reporting across departments.  
-`Power BI | Dataflows | Incremental Refresh | Star Schema`
+### 🔹 Simply Salamander Case Study
+A Power BI case study involving sales and procurement insights for a B2B exotic pet food company.  
+`Power BI | DAX | Data Modeling | KPI Dashboards`
 
-- Implemented efficient dataflows for Dynamics 365-based sources.
-- Delivered performance-tuned dashboards with documentation and user training.
+- Created interactive dashboards to visualize sales performance and procurement trends.
+- Delivered a PDF preview of the dashboard highlighting tooltips, drill-throughs, and vendor breakdowns.
+- 📄 [View Case Study & Dashboards (GitHub)](https://github.com/ShashankMhatre/Salamander-Case-Study-PowerBI)
 
 ---
 
